@@ -16,7 +16,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m currently currently looking for job as a data analyst.
+- :telescope: I’m currently looking for job as a data analyst.
 
 - :seedling: Growing as a professional in the analysis field.
 

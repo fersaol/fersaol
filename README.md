@@ -16,11 +16,11 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m currently looking for job as a cloud support engineer or data analyst.
+- :telescope: I’m currently looking for job as a Cloud Support Engineer or Data Analyst.
 
 - :seedling: Growing as a professional in the tech world.
 
-- :zap: In my free time, I read about analysis, machine learning, philosofy and practice sports as cycling, running or muay thai. I am also learning to develop webapps with react, react native, javascript and apis with node.js and express.
+- :zap: In my free time, I read about analysis, machine learning, philosofy and practice sports as cycling, running or muay thai. I am also learning to develop webapps with react, react native, javascript and apis with node.js, PostgreSQL and express.js, also using the cloud.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernandosanchezolmo/)
 

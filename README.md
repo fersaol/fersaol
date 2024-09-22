@@ -16,7 +16,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m currently looking for job as a Cloud Support Engineer or Data Analyst.
+- :telescope: I’m currently looking for job as Solutions Architect, Cloud Support Engineer or Data Analyst.
 
 - :seedling: Growing as a professional in the tech world.
 
